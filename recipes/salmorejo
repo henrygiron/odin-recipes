@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salmorejo</title>
+</head>
+<body>
+    <h1>Salmorejo</h1>
+    <img src="../images/salmorejo.jpg" width="300" alt="salmorejo photo">
+    <h3>What is Salmorejo?</h3>
+    <p><em>Salmorejo</em> is a famous Spanish dish originally from Cordoba in Andalusia.
+       It is a cross between a sauce and a soup. Eaten cold,
+      it is very refreshing and helps withstand the climate 
+      of the region.</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>2½ lbs pear tomatoes (or elongated tomatoes), peeled, seeded, and chopped</li>
+        <li>7 oz white bread</li>
+        <li>½ cup extra virgin olive oil</li>
+        <li>2 cloves garlic , crushed</li>
+        <li>1 teaspoon salt</li>
+        <li>1 large hard-boiled egg , finely chopped</li>
+        <li>3 tablespoons diced Serrano ham</li>
+        <li>2 teaspoons olive oil</li>
+    </ul>
+    <h3>Instructions</h3>
+    <ol>
+        <li>Place the chopped tomatoes and garlic into a mortar, and crush with a pestle, until smooth.</li>
+        <li>Add the bread, half of the olive oil and salt, and mix.</li>
+        <li>While very gradually incorporating the rest of the olive oil, grind for at least 10 minutes, until you obtain a homogeneous and smooth paste.</li>
+        <li>Pour the mixture into a serving bowl, cover with cling film, and place in the refrigerator for at least 1 hour.</li>
+        <li>Top with serrano ham, hard-boiled egg and olive oil.</li>
+    </ol>
+
+</body>
+</html>

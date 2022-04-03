@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spanish Recipes</title>
+</head>
+<body>
+    <h1>Spanish Recipes</h1>
+    <img src="./images/plaza_de_espana.jpg" width="600" alt="Plaza de Espana">
+    <ul>
+    <li><a href="./recipes/salmorejo">Salmorejo</a></li>
+    <li><a href="./recipes/Tortilla_de_patatas">Tortilla de Patatas</a></li>
+    <li><a href="./recipes/Paella">Paella</a></li>
+    </ul>
+</body>
+</html>

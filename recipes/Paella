@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paella</title>
+</head>
+<body>
+    <h1>Paella</h1>
+    <img src="../images/Paella.jpg" width="300" alt="Paella">
+    <h3>What is Tortilla de Patatas?</h3>
+    <p>We are headed to Spain for one of the most emblematic recipes of the country: <em>paella</em></p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>82 lb chicken</li>
+        <li>2 lb rabbit</li>
+        <li>20 escargots </li>
+        <li>1 lb ferradura</li>
+        <li>1 lb garrofó </li>
+        <li>3 tomatoes</li>
+        <li>2 teaspoons pimenton</li>
+        <li>1 small branch rosemary</li>
+        <li>35 pistils saffron </li>
+        <li>5 cups paella rice</li>
+        <li>1½ cup extra virgin olive oil</li>
+    </ul>
+    <h3>Instructions</h3>
+    <ol>
+        <li>The day before, bring a small amount of spring water (3 tablespoons) to a boil and pour this water into a small jar with the saffron pistils.</li>
+        <li>Close the jar tightly and let it steep at room temperature for 24 hours before use.</li>
+        <li>The day before, soak the white beans for 12 hours in 4 times their volume in water.</li>
+        <li>Rinse them, cover them with 5 times their volume of water and boil them in a pressure cooker for 20 minutes from the moment it is under pressure.</li>
+        <li>Cut the chicken and rabbit into pieces and season with salt.</li>
+        <li>In a paella pan, heat the olive oil over high heat.</li>
+        <li>Brown the meat over low heat. You must brown it without cooking it too much.</li>
+        <li>Arrange the meat in a circle on the edges of the pan. The heat being in the middle of of the large paella pan, the meat does not cook anymore.</li>
+        <li>Add the ferraduras in the center. Fry lightly in the juices and fat of the meats. Season with salt.</li>
+        <li>Place the ferradura on the edges of the pan with the meats.</li>
+        <li>Add the tomato to the center. Sauté until their water evaporates completely.</li>
+        <li>Add the paprika and mix well.</li>
+        <li>Bring everything back to the center of the pan and mix gently over low heat for a few minutes before proceeding to the next step.</li>
+        <li>Pour the boiling water (about 6 quarts / 6 l). Cook everything in the water for 5 minutes over high heat, stirring gently.</li>
+        <li>Introduce the dried beans soaked from the day before. Add the infused saffron and the pistils. Add the rosemary.</li>
+        <li>When a quarter of the water has evaporated, pour the rice into the pan when the water is boiling.</li>
+        <li>Arrange all the ingredients at the beginning of the cooking of the rice, as nothing can be stirred or moved afterwards.</li>
+        <li>Spread the snails evenly at the beginning of cooking the rice.</li>
+        <li>To cook the rice
+            <ul>
+                <li>High heat for 8 minutes.</li>
+                <li>Low-medium heat for 10 minutes.</li>
+                <li>Very high heat for 1 to 2 minutes at the end to obtain the socarrat (crispy crust that forms at the bottom of the paella pan).</li>
+            </ul>
+        </li>
+        <li>Let the paella sit covered for 10 minutes before serving. If you think the rice is not cooked enough, cover for 10 to 15 minutes with aluminum foil by folding it well on the edges and add a heavy cloth on top.</li>
+        <li>Serve the paella while it is still steaming.</li>
+        
+    </ol>
+
+</body>
+</html>

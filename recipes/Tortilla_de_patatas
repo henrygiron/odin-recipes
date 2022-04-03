@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tortilla de Patatas</title>
+</head>
+<body>
+    <h1>Tortilla de Patatas</h1>
+    <img src="../images/tortilla_de_patatas.jpg" width="300" alt="Tortilla de Patatas">
+    <h3>What is Tortilla de Patatas?</h3>
+    <p><em>Tortilla de Patatas.</em> Its name comes from its shape as tortilla means round cake or galette in Spanish. 
+        It’s a simple recipe based on eggs and potatoes. There are dozens of different versions. The most common being with onions.</p>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>8 eggs</li>
+        <li>5 potatoes</li>
+        <li>1 large onion</li>
+        <li>½ cup olive oil</li>
+        <li>Salt</li>
+        <li>Pepper</li>
+    </ul>
+    <h3>Instructions</h3>
+    <ol>
+        <li>Peel the potatoes and wash them.</li>
+        <li>Cut into four lengthwise and cut each quarter into thin slices.</li>
+        <li>In a deep nonstick skillet, heat ½ cup (120ml) of olive oil lightly over medium heat.</li>
+        <li>Pour the potatoes and cook 5 minutes, stirring gently.</li>
+        <li>Add the onion.</li>
+        <li>Maintain medium heat and cook for 15 minutes, stirring regularly.</li>
+        <li>Remove from heat, pour into a colander and drain well. Set aside.</li>
+        <li>Separate the eggs.</li>
+        <li>Beat the egg whites with a fork until light and fluffy.</li>
+        <li>Beat the egg yolks and add them to the whites. Beating the egg whites and yolks separately helps obtaining a lighter omelette.</li>
+        <li>Mix the potatoes and onion to the beaten eggs and let stand for 10 minutes.</li>
+        <li>Gently heat three tablespoons of olive oil in the pan and pour the mixture.</li>
+        <li>Cook until the mixture begins to boil.</li>
+        <li>Flip the tortilla by covering the pan with a large plate. Press firmly on the plate and, with a quick gesture, turn it over.</li>
+        <li>Gently slide the tortilla back in the pan to cook the other side for 4-5 minutes.</li>
+    </ol>
+
+</body>
+</html>
